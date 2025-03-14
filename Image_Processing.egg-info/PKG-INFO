@@ -1,0 +1,56 @@
+Metadata-Version: 2.2
+Name: Image-Processing
+Version: 0.0.1
+Summary: Pacote de histogramar imagens
+Home-page: https://github.com/QU4TR0/image-processing-package
+Author: Guilherme Pontes
+Author-email: pontesguilhermer@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: scikit-image
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Image Processing
+
+Description. 
+The package package_name is used to:
+- Processing:
+	- Histogram matching
+	- Structural similarity
+	- Resize image
+- Utils:
+	- Read image
+	- Save image
+	- Plot image
+	- Plot result
+	- Plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install image-processing
+```
+
+<!-- ## Usage
+
+```python
+from image-processing-package.processing import file1_name
+file1_name.my_function()
+``` -->
+
+## Author
+Guilherme Pontes
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
